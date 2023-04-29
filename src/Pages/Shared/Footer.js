@@ -26,6 +26,11 @@ const Footer = () => {
     <a className="link link-hover">Cookie policy</a>
   </div>
 </footer>
+<footer class="footer footer-center p-4 text-base-content">
+  <div>
+    <p>Copyright © 2023 - All right reserved by Doctors Portal</p>
+  </div>
+</footer>
         </div>
     );
 };
