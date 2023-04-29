@@ -1,10 +1,29 @@
-# Getting Started with Create React App
+# Doctors Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See Site  [Link](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project Pages
 
-In the project directory, you can run:
+1. Home
+2. Appointment
+3. Dashboard
+4. Login
+5. SignUp
+6. About 
+7. Review
+8. Contact
+
+## Available Technologies
+
+1. react-router-dom
+2. daisyui
+3. firebase
+4. react-day-picker
+5. react-firebase-hooks
+6. react-hook-form 
+7. react-query
+8. react-toastify
+9. date-fns
 
 ### `npm start`
 
